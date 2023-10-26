@@ -1,3 +1,3 @@
-#DEMO heading
+# DEMO heading
 
 Plain text description
